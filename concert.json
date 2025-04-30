@@ -1,29 +1,26 @@
-{
-  "concerts": {
-    "concert1": {
-      "title": "Delta Festival",
-      "date": "07/09/2025",
-      "location": "Plage du Prado, Marseille",
-      "imageUrl": "https://img.freepik.com/photos-gratuite/foule-du-concert_23-2151953446.jpg?"
-    },
-    "concert2": {
-      "title": "Jazz Night",
-      "date": "24/06/2025",
-      "location": "Théâtre Lino Ventura",
-      "imageUrl": "https://img.freepik.com/photos-gratuite/belle-photo-concert-direct-spectacle-lumiere-jaune-grande-foule-liesse_181624-55905.jpg"
-    },
-    "concert3": {
-      "title": "Rock Legends",
-      "date": "15/07/2025",
-      "location": "Palais Nikaia, Nice",
-      "imageUrl": "https://img.freepik.com/photos-gratuite/gros-plan-enregistrement-video-smartphone-lors-concert_1153-7311.jpg"
-    },
-    "concert4": {
-      "title": "Electro Pulse",
-      "date": "22/08/2025",
-      "location": "Zénith Paris - La Villette",
-      "imageUrl": "https://img.freepik.com/photos-gratuite/gens-dans-concert_1160-737.jpg"
-    }
-    
+[
+  {
+    "title": "Delta Festival",
+    "date": "07/09/2025",
+    "location": "Plage du Prado, Marseille",
+    "imageUrl": "https://img.freepik.com/photos-gratuite/foule-du-concert_23-2151953446.jpg?"
+  },
+  {
+    "title": "Jazz Night",
+    "date": "24/06/2025",
+    "location": "Théâtre Lino Ventura",
+    "imageUrl": "https://img.freepik.com/photos-gratuite/belle-photo-concert-direct-spectacle-lumiere-jaune-grande-foule-liesse_181624-55905.jpg"
+  },
+  {
+    "title": "Rock Legends",
+    "date": "15/07/2025",
+    "location": "Palais Nikaia, Nice",
+    "imageUrl": "https://img.freepik.com/photos-gratuite/gros-plan-enregistrement-video-smartphone-lors-concert_1153-7311.jpg"
+  },
+  {
+    "title": "Electro Pulse",
+    "date": "22/08/2025",
+    "location": "Zénith Paris - La Villette",
+    "imageUrl": "https://img.freepik.com/photos-gratuite/gens-dans-concert_1160-737.jpg"
   }
-}
+]
