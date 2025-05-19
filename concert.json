@@ -3,7 +3,24 @@
     "title": "Delta Festival",
     "date": "07/09/2025",
     "location": "Plage du Prado, Marseille",
-    "imageUrl": "https://img.freepik.com/photos-gratuite/foule-du-concert_23-2151953446.jpg?"
+    "imageUrl": "https://img.freepik.com/photos-gratuite/foule-du-concert_23-2151953446.jpg?",
+    "staffPoints": [
+      {
+        "name": "Entrée principale",
+        "latitude": 43.2641,
+        "longitude": 5.3698
+      },
+      {
+        "name": "Poste de secours",
+        "latitude": 43.2652,
+        "longitude": 5.3712
+      },
+      {
+        "name": "Zone technique",
+        "latitude": 43.2635,
+        "longitude": 5.3685
+      }
+    ]
   },
   {
     "title": "Jazz Night",
