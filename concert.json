@@ -7,18 +7,18 @@
     "staffPoints": [
       {
         "name": "Entrée principale",
-        "latitude": 43.2641,
-        "longitude": 5.3698
+        "latitude": 43.677803,
+        "longitude": 7.198262
       },
       {
         "name": "Poste de secours",
-        "latitude": 43.2652,
-        "longitude": 5.3712
+        "latitude": 43.678928,
+        "longitude": 7.197357
       },
       {
         "name": "Zone technique",
-        "latitude": 43.2635,
-        "longitude": 5.3685
+        "latitude": 43.678749,
+        "longitude": 7.196272
       }
     ]
   },
