@@ -1,5 +1,6 @@
 [
   {
+    "id": "0",
     "title": "Delta Festival",
     "date": "07/09/2025",
     "location": "Plage du Prado, Marseille",
@@ -23,18 +24,21 @@
     ]
   },
   {
+    "id": "1",
     "title": "Jazz Night",
     "date": "24/06/2025",
     "location": "Théâtre Lino Ventura",
     "imageUrl": "https://img.freepik.com/photos-gratuite/belle-photo-concert-direct-spectacle-lumiere-jaune-grande-foule-liesse_181624-55905.jpg"
   },
   {
+    "id": "2",
     "title": "Rock Legends",
     "date": "15/07/2025",
     "location": "Palais Nikaia, Nice",
     "imageUrl": "https://img.freepik.com/photos-gratuite/gros-plan-enregistrement-video-smartphone-lors-concert_1153-7311.jpg"
   },
   {
+    "id": "3",
     "title": "Electro Pulse",
     "date": "22/08/2025",
     "location": "Zénith Paris - La Villette",
