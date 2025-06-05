@@ -29,19 +29,70 @@
     "date": "24/06/2025",
     "location": "Théâtre Lino Ventura",
     "imageUrl": "https://img.freepik.com/photos-gratuite/belle-photo-concert-direct-spectacle-lumiere-jaune-grande-foule-liesse_181624-55905.jpg"
+    "staffPoints": [
+      {
+  "name": "Scène principale",
+  "latitude": 43.678210,
+  "longitude": 7.199890
+},
+{
+  "name": "Zone VIP",
+  "latitude": 43.677150,
+  "longitude": 7.197480
+},
+{
+  "name": "Parking staff",
+  "latitude": 43.676520,
+  "longitude": 7.195980
+}
+
+    ]
   },
   {
     "id": "2",
     "title": "Rock Legends",
     "date": "15/07/2025",
     "location": "Palais Nikaia, Nice",
-    "imageUrl": "https://img.freepik.com/photos-gratuite/gros-plan-enregistrement-video-smartphone-lors-concert_1153-7311.jpg"
+    "imageUrl": "https://img.freepik.com/photos-gratuite/gros-plan-enregistrement-video-smartphone-lors-concert_1153-7311.jpg",
+    "staffPoints": [
+    {
+  "name": "Entrée secondaire",
+  "latitude": 43.678550,
+  "longitude": 7.194820
+},
+{
+  "name": "Local technique",
+  "latitude": 43.676980,
+  "longitude": 7.198870
+}
+
+
+    ]
   },
   {
     "id": "3",
     "title": "Electro Pulse",
     "date": "22/08/2025",
     "location": "Zénith Paris - La Villette",
-    "imageUrl": "https://img.freepik.com/photos-gratuite/gens-dans-concert_1160-737.jpg"
+    "imageUrl": "https://img.freepik.com/photos-gratuite/gens-dans-concert_1160-737.jpg",
+    "staffPoints": [
+   {
+  "name": "Point info",
+  "latitude": 43.677300,
+  "longitude": 7.199300
+},
+{
+  "name": "Buvette centrale",
+  "latitude": 43.678100,
+  "longitude": 7.196800
+},
+{
+  "name": "Zone fumeurs",
+  "latitude": 43.676750,
+  "longitude": 7.197600
+}
+
+
+    ]
   }
 ]
